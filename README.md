@@ -9,15 +9,16 @@ Jia, Shan, et al. "A database for face presentation attack using wax figure face
 The database contains three folders "ProtocolX" (Protocol ID) with images in three subfolders:
 
 * **Protocol1** :<br/> The wax figure face  and real faces image pairs came from different recording devices and environment, and were grouped manually;
+* **Protocol2** :<br/> The wax figure face  and real face pairs were recorded in the same environment with the same cameras;
+* **Protocol3** :<br/> Previous two protocols are combined to simulate the real-world operational conditions;
 
 |        | Train   |   Dev   |  Test   |  Total  | 
 | :----: | :-----: | :-----: | :-----: | :-----: |
-|        | 600     | 200     | 200     | 1,000   | 
-
-* **Protocol2** :<br/> The wax figure face  and real face pairs were recorded in the same environment with the same cameras;
-image: /Train (720), /Dev (240); /Test (240); total: 1,200
-* **Protocol3** :<br/> Previous two protocols are combined to simulate the real-world operational conditions;
-image: /Train (1,320), /Dev (440); /Test (440); total: 2,200
+|   Protocol1   | 600     | 200     | 200     | 1,000   | 
+| :----: | :-----: | :-----: | :-----: | :-----: |
+|   Protocol2   | 720     | 240     | 240     | 1,200   | 
+| :----: | :-----: | :-----: | :-----: | :-----: |
+|   Protocol3   | 1,320     | 440     | 440     | 2,200   | 
 
 ## Dataset Download
 
