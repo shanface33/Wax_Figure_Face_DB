@@ -3,7 +3,7 @@
 The Wax Figure Face Database (WFFD) verison 1 was proposed in our ICIAP2019 paper (Jia, S. et al., ICIAP2019), which includes wax figure faces as super-realistic 3D presentation attacks. It consists of 2200 images with both real and wax figure faces (totally 4400 faces) with a high diversity from online collections. For more details please refer to our paper:
 Jia, Shan, et al. "A database for face presentation attack using wax figure faces." International Conference on Image Analysis and Processing. Springer, Cham, 2019.
 
----------------------------------------------------
+## Summary 
 The database contains three folders "ProtocolX" (Protocol ID) with images in three subfolders:
 * Protocol1: the wax figure face  and real faces image pairs came from different recording devices and environment, and were grouped manually;
 #image: /Train (600), /Dev (200); /Test (200); total: 1000
@@ -12,10 +12,21 @@ The database contains three folders "ProtocolX" (Protocol ID) with images in thr
 * Protocol3: previous two protocols are combined to simulate the real-world operational conditions;
 #image: /Train (1320), /Dev (440); /Test (440); total: 2200
 
----------------------------------------------------
+## Dataset Download
+
+The WFFD database can be accessed via:
+https://drive.google.com/file/d/183FK2fxuKip0rJVV_pJz_R3QDlKHaC8S/view?usp=sharing (google)
+
+Or you can get our dataset via Baidu Yun (Password: udnk): 
+https://pan.baidu.com/s/10Ku_4fxlKCiTlrdjL0SWSg
+
+Please email me (jias@whu.edu.cn) for unzip password. 
+
 The WFFD database is released only for academic researches. Any researchers from educational institute are allowed to use this database freely for noncommercial purpose.
 
----------------------------------------------------
+
+
+## Dataset Downloads
 If you use this database, please cite the following publication:
 ```
 @inproceedings{jia2019database,
