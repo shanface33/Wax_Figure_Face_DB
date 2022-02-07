@@ -13,12 +13,9 @@ The database contains three folders "ProtocolX" (Protocol ID) with images in thr
 * **Protocol3** :<br/> Previous two protocols are combined to simulate the real-world operational conditions;
 
 |        | Train   |   Dev   |  Test   |  Total  | 
-| :----: | :-----: | :-----: | :-----: | :-----: |
 |   Protocol1   | 600     | 200     | 200     | 1,000   | 
-| :----: | :-----: | :-----: | :-----: | :-----: |
 |   Protocol2   | 720     | 240     | 240     | 1,200   | 
-| :----: | :-----: | :-----: | :-----: | :-----: |
-|   Protocol3   | 1,320     | 440     | 440     | 2,200   | 
+|   Protocol3   | 1,320   | 440     | 440     | 2,200   | 
 
 ## Dataset Download
 
