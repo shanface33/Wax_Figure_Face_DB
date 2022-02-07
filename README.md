@@ -4,12 +4,12 @@ The Wax Figure Face Database (WFFD) verison 1 was proposed in our ICIAP2019 pape
 Jia, Shan, et al. "A database for face presentation attack using wax figure faces." International Conference on Image Analysis and Processing. Springer, Cham, 2019.
 
 ---------------------------------------------------
-The database contains three folders "Protocolx" (Protocol ID) with images in three subfolders:
-Protocol1: the wax figure faces and real faces images came from different recording devices and environment, and were grouped manually;
+The database contains three folders "ProtocolX" (Protocol ID) with images in three subfolders:
+* Protocol1: the wax figure faces and real faces images came from different recording devices and environment, and were grouped manually;
 #image: /Train (600), /Dev (200); /Test (200); total: 1000
-Protocol2: the wax figure faces and real faces were recorded in the same environment with the same cameras;
+* Protocol2: the wax figure faces and real faces were recorded in the same environment with the same cameras;
 #image: /Train (720), /Dev (240); /Test (240); total: 1200
-Protocol3: previous two protocols are combined to simulate the real-world operational conditions;
+* Protocol3: previous two protocols are combined to simulate the real-world operational conditions;
 #image: /Train (1320), /Dev (440); /Test (440); total: 2200
 
 ---------------------------------------------------
