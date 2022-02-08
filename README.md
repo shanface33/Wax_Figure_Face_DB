@@ -12,12 +12,12 @@ The database contains three folders "ProtocolX" (Protocol ID) with images in thr
 
   <div class="column left">
     <img align="left" width="25%" src="WFFD_Protocol1.png?raw=true">  <div class="row">
-  <div class="column left">
-    <img align="right" width="25%" src="WFFD_Protocol2.png?raw=true">   <div class="row">
-  </div>
   </div>
   
 * **Protocol2** :<br/> The wax figure face and real face pairs were recorded in the same environment with the same cameras;
+  <div class="column left">
+    <img align="left" width="25%" src="WFFD_Protocol2.png?raw=true">   <div class="row">
+  </div>
 * **Protocol3** :<br/> Previous two protocols are combined to simulate the real-world operational conditions;
 
 |        | Train   |   Dev   |  Test   |  Total  | 
