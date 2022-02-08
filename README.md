@@ -26,7 +26,7 @@ https://drive.google.com/file/d/183FK2fxuKip0rJVV_pJz_R3QDlKHaC8S/view?usp=shari
 Or you can get our dataset via Baidu Yun (Password: udnk): 
 https://pan.baidu.com/s/10Ku_4fxlKCiTlrdjL0SWSg
 
-Please email me (jias@whu.edu.cn) for unzip password. 
+Please email me (jias@whu.edu.cn) for the unzip password. Thanks! 
 
 The WFFD database is released only for academic researches. Any researchers from educational institute are allowed to use this database freely for noncommercial purpose.
 
