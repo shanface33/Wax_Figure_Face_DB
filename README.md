@@ -7,7 +7,7 @@ Jia, Shan, et al. "A database for face presentation attack using wax figure face
 
 ## Summary 
 The database contains three folders "ProtocolX" (Protocol ID) with images in three subfolders:
-
+![fig1_compressed-1](WFFD.png)
 * **Protocol1** :<br/> The wax figure face and real face pairs came from different recording devices and environment, and were grouped manually;
   
 * **Protocol2** :<br/> The wax figure face and real face pairs were recorded in the same environment with the same cameras;
