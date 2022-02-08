@@ -28,11 +28,9 @@ https://pan.baidu.com/s/10Ku_4fxlKCiTlrdjL0SWSg
 
 Please email me (jias@whu.edu.cn) for the unzip password. Thanks! 
 
+## License and Citation
 The WFFD database is released only for academic researches. Any researchers from educational institute are allowed to use this database freely for noncommercial purpose.
 
-
-
-## Dataset Downloads
 If you use this database, please cite the following publication:
 ```
 @inproceedings{jia2019database,
