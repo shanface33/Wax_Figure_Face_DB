@@ -1,4 +1,4 @@
-# Wax Figure Face Database (WFFD) for face spoofing [<a href="https://arxiv.org/pdf/1906.11900.pdf?ref=https://githubhelp.com">Paper</a>]
+# Wax Figure Face Database (WFFD) for realistic face spoofing [<a href="https://arxiv.org/pdf/1906.11900.pdf?ref=https://githubhelp.com">Paper</a>]
 
 ![fig1_compressed-1](WFFD.png)
 
