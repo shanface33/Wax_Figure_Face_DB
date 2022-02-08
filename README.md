@@ -22,7 +22,7 @@ The database contains three folders "ProtocolX" (Protocol ID) with images in thr
 |   Protocol2   | 720     | 240     | 240     | 1,200   | 
 |   Protocol3   | 1,320   | 440     | 440     | 2,200   | 
 
-Data labels (i.e., real/wax) have been proposed in each substets.
+Data labels (i.e., real/wax) are provided in each substet.
 
 ## Dataset Download
 
