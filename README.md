@@ -22,6 +22,8 @@ The database contains three folders "ProtocolX" (Protocol ID) with images in thr
 |   Protocol2   | 720     | 240     | 240     | 1,200   | 
 |   Protocol3   | 1,320   | 440     | 440     | 2,200   | 
 
+Data labels (i.e., real/wax) have been proposed in each substets.
+
 ## Dataset Download
 
 The WFFD database can be accessed via:
@@ -46,3 +48,13 @@ If you use this database, please cite the following publication:
   organization={Springer}
 }
 
+@article{jia20203d,
+  title={3D face anti-spoofing with factorized bilinear coding},
+  author={Jia, Shan and Li, Xin and Hu, Chuanbo and Guo, Guodong and Xu, Zhengquan},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  volume={31},
+  number={10},
+  pages={4031--4045},
+  year={2020},
+  publisher={IEEE}
+}
