@@ -8,7 +8,7 @@ For more details please refer to our paper:
 Jia, Shan, et al. "A database for face presentation attack using wax figure faces." International Conference on Image Analysis and Processing. Springer, Cham, 2019.
 
 ## Summary 
-The database contains three folders "ProtocolX" (Protocol ID) with images in three subfolders:
+The WFFD database contains three folders "ProtocolX" (Protocol ID) with images in three subfolders:
 
 * **Protocol1** :<br/> The wax figure face and real face pairs came from different recording devices and environment, and were grouped manually;
   
@@ -23,6 +23,14 @@ The database contains three folders "ProtocolX" (Protocol ID) with images in thr
 |   Protocol3   | 1,320   | 440     | 440     | 2,200   | 
 
 Data labels (i.e., real/wax) are provided in each substet.
+
+The WFFD-V database contains 245 cropped face image sequences in two subfolders:
+
+* **Real** :<br/> Train - 84 sequences, 17,808 faces; Test - 56 sequences, 11,162 faces;
+  
+* **Wax** :<br/> Train - 87 sequences, 9,095 faces; Test - 58 sequences, 7,670 faces;
+
+![fig1_compressed-1](WFFD-V.png)
 
 ## Dataset Download
 
