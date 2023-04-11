@@ -43,7 +43,6 @@ WFFD dataset
 WFFD-V dataset
 | :-------: | 
 |https://drive.google.com/file/d/1q-yikQpecQIYli983not9eeYH57lC58G/view (google)|
-|https://pan.baidu.com/s/10Ku_4fxlKCiTlrdjL0SWSg (Baidu Yun, Password: udnk)|
 
 Please email me (jias@whu.edu.cn) with **ACADEMIC email address** and **Principal Investigator/Advisor's Name** for the unzip password. Thanks! 
 
