@@ -35,12 +35,10 @@ The WFFD-V database contains 245 cropped face image sequences in two subfolders:
 ## Dataset Download
 
 The WFFD database can be accessed via:
-
-https://drive.google.com/file/d/183FK2fxuKip0rJVV_pJz_R3QDlKHaC8S/view?usp=sharing (google)
-
-Or you can get our dataset via Baidu Yun (Password: udnk): 
-
-https://pan.baidu.com/s/10Ku_4fxlKCiTlrdjL0SWSg
+| :-------: | 
+|   https://drive.google.com/file/d/183FK2fxuKip0rJVV_pJz_R3QDlKHaC8S/view?usp=sharing (google)|
+| :-------: | 
+|https://pan.baidu.com/s/10Ku_4fxlKCiTlrdjL0SWSg (Baidu Yun, Password: udnk)|
 
 -----------------------------------------------------------------------------------
 The WFFD-V database can be accessed via:
