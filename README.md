@@ -34,18 +34,17 @@ The WFFD-V database contains 245 cropped face image sequences in two subfolders:
 
 ## Dataset Download
 
-WFFD dataset
+WFFD dataset (**Unzip password**: **wffdv1**)
 | :-------: | 
 |https://drive.google.com/file/d/183FK2fxuKip0rJVV_pJz_R3QDlKHaC8S/view?usp=sharing (google)|
 |https://pan.baidu.com/s/10Ku_4fxlKCiTlrdjL0SWSg (Baidu Yun, Password: udnk)|
 
 -----------------------------------------------------------------------------------
-WFFD-V dataset
+WFFD-V dataset (**Unzip password**: **WFFD_Video**)
 | :-------: | 
 |https://drive.google.com/file/d/1q-yikQpecQIYli983not9eeYH57lC58G/view (google)|
 |https://pan.baidu.com/s/1nnr0GQeW-ls2cY3R8QookQ (Baidu Yun, Password: 64q2)|
 
-Please email me (jias@whu.edu.cn) with **ACADEMIC email address** and **Principal Investigator/Advisor's Name** for the unzip password. Thanks! 
 
 ## License and Citation
 The WFFD database is released only for academic researches. Any researchers from educational institute are allowed to use this database freely for noncommercial purpose.
